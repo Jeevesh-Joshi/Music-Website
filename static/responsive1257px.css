@@ -1,0 +1,25 @@
+:root {
+    --bg-padding: 4rem;/*auido left padding*/
+  }
+.ango div {
+    font-size: 6rem;
+}
+.playlist {
+    font-size: 4rem;
+}
+.sidebar img{
+    width: 2.5rem;
+}
+.sidebar {
+    width: 3rem;
+}
+.audio {
+    padding: 0;
+}
+.audio audio{
+    height: 1.7rem;
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
+    filter: invert(1);
+    opacity: 0.82;
+}
